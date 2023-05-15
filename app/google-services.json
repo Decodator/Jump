@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200257831752",
+    "project_id": "ipn-app-9ccc5",
+    "storage_bucket": "ipn-app-9ccc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200257831752:android:a4eccfee6fa4a1a5aba97d",
+        "android_client_info": {
+          "package_name": "com.example.ipn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200257831752-ttumfetjtaje2t8622msbcf5vauagm3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3kstDkU7RNDKm88rf6ZtwKo32MjfcCys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200257831752-ttumfetjtaje2t8622msbcf5vauagm3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

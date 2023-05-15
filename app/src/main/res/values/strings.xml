@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IPN</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="mis_materias">Mis materias</string>
+    <string name="title_activity_questions">QuestionsActivity</string>
+    <string name="aprendizaje_especifico">Buscas un aprendizaje más específico?</string>
+    <string name="parcial">Da click en alguno de los siguientes parciales para obtener contenido concentrado</string>
+    <string name="respuesta_correcta">Respuesta correcta</string>
+    <string name="respuesta_incorrecta">Respuesta incorrecta</string>
+    <string name="hogar">Hogar</string>
+    <string name="explorar">Explorar</string>
+    <string name="perfil">Perfil</string>
+    <string name="añadir_opcion">Añadir opción</string>
+    <string name="title_activity_developer">DeveloperActivity</string>
+    <string name="clean_options">Limpiar opciones</string>
+    <string name="title_activity_sesion">SesionActivity</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="reportar">Reportar</string>
+    <string name="radio_help">El contorno de la opción correcta es de color rojo. Haz clic sobre cualquier opción para marcarla como correcta</string>
+    <string name="checbox_help">Selecciona las respuestas correctas, vuelve a seleccionar una opción para marcarla como incorrecta</string>
+</resources>
