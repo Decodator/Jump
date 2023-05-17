@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.ipn'
+    namespace 'com.ipn.jump'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.ipn"
+        applicationId "com.ipn.jump"
         minSdk 24
         targetSdk 33
         versionCode 1
@@ -73,6 +73,7 @@ dependencies {
 
     //Coil
     implementation("io.coil-kt:coil-compose:2.3.0")
+    implementation("io.coil-kt:coil-gif:2.3.0")
 
     //Material 3
     implementation "androidx.compose.material3:material3:1.1.0"

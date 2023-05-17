@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:200257831752:android:a4eccfee6fa4a1a5aba97d",
         "android_client_info": {
-          "package_name": "com.example.ipn"
+          "package_name": "com.ipn.jump"
         }
       },
       "oauth_client": [
